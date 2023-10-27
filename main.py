@@ -37,7 +37,7 @@ def search(query, top_k):
     return df
 
 
-title = st.text_input("Movie title")
+title = st.text_input("Book description")
 
 df = None
 
